@@ -1,0 +1,12 @@
+{
+  "export_job_id": "8393aec4-3567-4627-ba8f-c2c6330203c1",
+  "id_short": 458320,
+  "published_at": "2026-04-12T19:12:17Z",
+  "repo_name": "all-restaurants-in-urban-honolulu-metro-hawaii-us-sample-458320",
+  "sample_asset_name": "beamstation_458320_restaurants-us-urbanhonoluluhi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/458320/beamstation_458320_restaurants-us-urbanhonoluluhi_SAMPLE_DIST.csv",
+  "sample_records": 276,
+  "sample_sha256": "c68ef8cb7fb44bbf2e250ae60910cf7445181d42acd790b52a7256e2a5cbdf86",
+  "sample_size_bytes": 959336,
+  "total_records": 2765
+}
